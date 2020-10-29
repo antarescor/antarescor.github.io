@@ -5,7 +5,7 @@
         "tipo": "Academico",
         "lenguajes": ["python"],   
         "linkRepo": "https://antarescor.github.io/",
-        "linkLive": "https://antarescor.github.io/",
+        "linkLive": "",
         "linkVideo": "https://antarescor.github.io/"
     }, 
 
@@ -15,7 +15,7 @@
         "tipo": "Academico",
         "lenguajes": ["Python"], 
         "linkRepo": "https://antarescor.github.io/",
-        "linkLive": "https://antarescor.github.io/",
+        "linkLive": "",
         "linkVideo": "https://antarescor.github.io/"
     },
 
@@ -26,7 +26,7 @@
         "lenguajes": ["Django", "Python", "HTML", "CSS", "Javascript","Bootsrapt", "SQLite3"], 
         "linkRepo": "https://antarescor.github.io/",
         "linkLive": "https://appdirdom2.herokuapp.com/",
-        "linkVideo": "https://antarescor.github.io/"
+        "linkVideo": ""
     }, 
 
     {
@@ -37,6 +37,15 @@
         "linkRepo": "https://antarescor.github.io/",
         "linkLive": "https://antarescor.github.io/",
         "linkVideo": "https://antarescor.github.io/"
+    },
+    {
+        "titulo" : "Novamat", 
+        "descripcion" : "Es un proyecto hecho para la asignatura de Metodologias Multimedias en la Universidad Del Valle.#Es el traspaso del contenido ofical de matematicas de noveno grado del ministerio de educaion.#Alli se aplicaron tecnicas de diseño de navegacion, teoria de color, UX, Edicion de imagenes, optimizadion de web, e implantacion en la web, entre otros",
+        "tipo": "Academico",
+        "lenguajes": ["HTML","CSS", "Javascript", "Materialize"], 
+        "linkRepo": "https://github.com/antarescor/novamat",
+        "linkLive": "https://novamat.webcindario.com/",
+        "linkVideo": ""
     }
 ]
     
