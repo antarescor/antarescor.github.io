@@ -59,12 +59,27 @@
         "linkRepo": "https://antarescor.github.io/",
         "linkLive": "",
         "linkVideo": "https://antarescor.github.io/"
+<<<<<<< HEAD
     },  
+=======
+    },
+
+    {
+        "titulo" : "Appdirdom", 
+        "descripcion" : "Fue creado como un prototipo de directorio de domicilios publico.#Los usuarios pueden crear una publicacion para promocionar algun servicio que ofrezcan que incluya servicio a domiclio.#No necesita ningun registro",
+        "tipo": "Personal",
+        "lenguajes": ["Django", "Python", "HTML", "CSS", "Javascript","Bootsrapt", "SQLite3"], 
+        "linkRepo": "https://antarescor.github.io/",
+        "linkLive": "https://appdirdom2.herokuapp.com/",
+        "linkVideo": ""
+    }, 
+>>>>>>> aa92694cfda03b0fa7f3b38e9a1030dcd2ebd516
 
     {
         "titulo" : "Spooky Trees", 
         "descripcion" : "Es un proyecto hecho para la asignatura de Computacion grafica en la Universidad Del Valle.#Se trata de un videojuego de terror donde la meta es encontrar todos, los 'Spooky Trees', hallar la misteriosa salida, y sobretodo, no morir en el intento.#Aplicaion de tipos de iluminacion, renderizados, texturas, modelado de Objetos 3D con Blender",
         "tipo": "Academico",
+<<<<<<< HEAD
         "lenguajes": ["Unity", "CSharp"], 
         "linkRepo": "https://1drv.ms/u/s!AvO0NE-FDsOwoVr6Zpbbim4hXdVz?e=Q2ysp3",
         "linkLive": "",
@@ -78,6 +93,20 @@
         "lenguajes": ["Java"], 
         "linkRepo": "https://github.com/antarescor/Enfriamiento-de-Newton",
         "linkLive": "",
+=======
+        "lenguajes": ["Unity", "C#"], 
+        "linkRepo": "https://antarescor.github.io/",
+        "linkLive": "https://antarescor.github.io/",
+        "linkVideo": "https://antarescor.github.io/"
+    },
+    {
+        "titulo" : "Novamat", 
+        "descripcion" : "Es un proyecto hecho para la asignatura de Metodologias Multimedias en la Universidad Del Valle.#Es el traspaso del contenido ofical de matematicas de noveno grado del ministerio de educaion.#Alli se aplicaron tecnicas de diseño de navegacion, teoria de color, UX, Edicion de imagenes, optimizadion de web, e implantacion en la web, entre otros",
+        "tipo": "Academico",
+        "lenguajes": ["HTML","CSS", "Javascript", "Materialize"], 
+        "linkRepo": "https://github.com/antarescor/novamat",
+        "linkLive": "https://novamat.webcindario.com/",
+>>>>>>> aa92694cfda03b0fa7f3b38e9a1030dcd2ebd516
         "linkVideo": ""
     }
     ,
