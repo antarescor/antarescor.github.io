@@ -8,7 +8,6 @@
         "linkLive": "",
         "linkVideo": "https://www.youtube.com/watch?v=jrl1U3Ijn4U"
     },
-
     {
         "titulo" : "Appdirdom", 
         "descripcion" : "Fue creado como un prototipo de directorio de domicilios publico.#Los usuarios pueden crear una publicacion para promocionar algun servicio que ofrezcan que incluya servicio a domiclio.#No necesita ningun registro",
@@ -18,18 +17,15 @@
         "linkLive": "https://appdirdom2.herokuapp.com/",
         "linkVideo": ""
     }, 
-
     {
         "titulo" : "Novamat", 
         "descripcion" : "Es un proyecto hecho para la asignatura de Metodologias Multimedias en la Universidad Del Valle.#Es el traspaso del contenido ofical de matematicas de noveno grado del ministerio de educaion.#Alli se aplicaron tecnicas de diseño de navegacion, teoria de color, UX, Edicion de imagenes, optimizadion de web, e implantacion en la web, entre otros",
         "tipo": "Academico",
         "lenguajes": ["HTML","CSS", "Javascript", "Materialize"], 
         "linkRepo": "https://github.com/antarescor/novamat",
-        "linkLive": "https://novamat.webcindario.com/",
+        "linkLive": "https://novamat.netlify.app/",
         "linkVideo": ""
-    }
-    ,
-
+    },
     {
         "titulo" : "MyCV", 
         "descripcion" : "Aplicativo WEB donde se reune a manera de resumen informacion sobre mi, mi carrera, y los algunos de los proyetos que he realizado.#Se aplicaron conocimiento de responsive desing, diseño WEB entre otros",
@@ -38,9 +34,7 @@
         "linkRepo": "",
         "linkLive": "https://antarescor.github.io/",
         "linkVideo": ""
-    }
-    ,
-
+    },
     {
         "titulo" : "Bomberman", 
         "descripcion" : "Proyecto final hecho para la asignatura de I.A. en la Universidad del Valle.#En el, tanto como el personaje principal, como los enemigos, estan controlados por I.A.#Para el personaje principal se implemento el algoritmo A* para intentar encuentrar la salida y para los enemigos se uso una I.A de tablas con estados predefinidos ",
@@ -50,7 +44,6 @@
         "linkLive": "",
         "linkVideo": "https://antarescor.github.io/"
     }, 
-
     {
         "titulo" : "Pokemon",  
         "descripcion" : "Es un proyecto hecho para la asignatura de I.A en la Universidad Del Valle.#Con este proyecto se busco emular un juego de comabtes pokemon aplicando el algoritmo MiniMax, con el fin de emular una pelea justa humano vs maquina o maquina vs maquina",
@@ -60,7 +53,6 @@
         "linkLive": "",
         "linkVideo": "https://antarescor.github.io/"
     },  
-
     {
         "titulo" : "Spooky Trees", 
         "descripcion" : "Es un proyecto hecho para la asignatura de Computacion grafica en la Universidad Del Valle.#Se trata de un videojuego de terror donde la meta es encontrar todos, los 'Spooky Trees', hallar la misteriosa salida, y sobretodo, no morir en el intento.#Aplicaion de tipos de iluminacion, renderizados, texturas, modelado de Objetos 3D con Blender",
@@ -69,8 +61,7 @@
         "linkRepo": "https://1drv.ms/u/s!AvO0NE-FDsOwoVr6Zpbbim4hXdVz?e=Q2ysp3",
         "linkLive": "",
         "linkVideo": ""
-    },
-    
+    },    
     {
         "titulo" : "Enfriamiento de Newton", 
         "descripcion" : "Es un proyecto hecho para la asignatura de Ecuaciones Diferenciales en la Universidad Del Valle.#Proyecto donde se aplican las ecuaciones diferenciales intrinsecas al la ley del enfriamiento de Newton.#Se simula y predice el tiempo de enfriamiento de tres metales, cobre, hierro y aluminio, segun sus temperatura y la ambiente y medidas como el volumen y area de contacto",
@@ -79,8 +70,7 @@
         "linkRepo": "https://github.com/antarescor/Enfriamiento-de-Newton",
         "linkLive": "",
         "linkVideo": ""
-    }
-    ,
+    },
     {
         "titulo" : "Sodoku", 
         "descripcion" : "Es un proyecto hecho para la asignatura de F.A.D.A en la Universidad Del Valle.#Poryecto final 1 Donde se aplican los conceptos de pilas y colas, arboles rojinegros, y arboles balanceados",
@@ -89,8 +79,7 @@
         "linkRepo": "https://github.com/antarescor/sodoku-FADA",
         "linkLive": "",
         "linkVideo": ""
-    }
-    ,
+    },
     {
         "titulo" : "Cartas 21", 
         "descripcion" : "Es un proyecto hecho para la asignatura de Programacion Interectiva en la Universidad Del Valle.#Implementacion basica de juego de cartas 21 Humano vs Maquina (Cupier).#Uso de Java Swing, eventos, contadores e imagenes",
