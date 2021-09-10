@@ -40,9 +40,9 @@
         "descripcion" : "Proyecto final hecho para la asignatura de I.A. en la Universidad del Valle.#En el, tanto como el personaje principal, como los enemigos, estan controlados por I.A.#Para el personaje principal se implemento el algoritmo A* para intentar encuentrar la salida y para los enemigos se uso una I.A de tablas con estados predefinidos ",
         "tipo": "Academico",
         "lenguajes": ["Python"],   
-        "linkRepo": "https://antarescor.github.io/",
+        "linkRepo": "https://github.com/antarescor/BombermanIA",
         "linkLive": "",
-        "linkVideo": "https://antarescor.github.io/"
+        "linkVideo": "https://youtu.be/ZM2VF_78AcU"
     }, 
     {
         "titulo" : "Pokemon",  
