@@ -18,6 +18,15 @@
         "linkVideo": ""
     }, 
     {
+        "titulo" : "Ciudadano360", 
+        "descripcion" : "Proyecto al cual hice parte en la empresa Fivetech S.A.S. Es un aplicativo web, encaminado a servir como facilitador para tramies generales del ciudadano de la ciudad de Bogotá. En este aporté en cuanto a diseño y creación interfaces de usuario, optimizaciones de consultas en backend usando LinQ, implementacion de procedimientos almacenados en BD, lógica de negocio en backend, entre otros.",
+        "tipo": "Profesional, laboral",
+        "lenguajes": ["CSharp", "HTML", "CSS", "Javascript","Bootstrap"], 
+        "linkRepo": "",
+        "linkLive": "https://ciudadano.movilidadbogota.gov.co/loginciudadano/loginciudadano#no-back-button",
+        "linkVideo": ""
+    },
+    {
         "titulo" : "Novamat", 
         "descripcion" : "Es un proyecto hecho para la asignatura de Metodologias Multimedias en la Universidad Del Valle.#Es el traspaso del contenido ofical de matematicas de noveno grado del ministerio de educaion.#Alli se aplicaron tecnicas de diseño de navegacion, teoria de color, UX, Edicion de imagenes, optimizadion de web, e implantacion en la web, entre otros",
         "tipo": "Academico",
@@ -88,9 +97,6 @@
         "linkRepo": "https://github.com/antarescor/Cartas-21",
         "linkLive": "",
         "linkVideo": ""
-    }
-    
-
-    
+    }  
 ]
     
