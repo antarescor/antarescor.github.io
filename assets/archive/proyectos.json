@@ -19,7 +19,7 @@
     }, 
     {
         "titulo" : "Ciudadano360", 
-        "descripcion" : "Proyecto al cual hice parte en la empresa Fivetech S.A.S. Es un aplicativo web, encaminado a servir como facilitador para tramies generales del ciudadano de la ciudad de Bogotá. En este aporté en cuanto a diseño y creación interfaces de usuario, optimizaciones de consultas en backend usando LinQ, implementacion de procedimientos almacenados en BD, lógica de negocio en backend, entre otros.",
+        "descripcion" : "Proyecto al cual hice parte en la empresa Fivetech S.A.S. Es un aplicativo web, encaminado a servir como facilitador para tramies generales del ciudadano de la ciudad de Bogotá.#En este aporté en cuanto a diseño y creación interfaces de usuario, optimizaciones de consultas en backend usando LinQ, implementacion de procedimientos almacenados en BD, lógica de negocio en backend, entre otros.",
         "tipo": "Profesional, laboral",
         "lenguajes": ["CSharp", "HTML", "CSS", "Javascript","Bootstrap"], 
         "linkRepo": "",
