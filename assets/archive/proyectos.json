@@ -1,5 +1,14 @@
 [
     {
+        "titulo" : "Software bancario", 
+        "descripcion" : "Software bancario para manejo de registro de transacciones bancarias.#Aplicativo desarrollado en nube, haciendo uso de la infraestructura de AWS para serverless mediente funciones lambda.",
+        "tipo": "Academico",
+        "lenguajes": ["NodeJs", "AWS", "Lambda", "Typescript","Javascript", "PostgresSQL", "AmazonDynamoDB"], 
+        "linkRepo": "",
+        "linkLive": "",
+        "linkVideo": ""
+    },
+    {
         "titulo" : "Trabajo de Grado", 
         "descripcion" : "Prototipo traductor de video de YouTube a Lengua de Señas Colombiana (LSC). Proyecto final para optar por el titulo de Ingeniero de Sistemas en la Universidad Del Valle.#Aplicativo web que mediente un link de Youtube, crea un video de subtitulos LSC. Se busca con este aplicativo brindar accesibilidad a los contenidos multimedia por parte de la comunidad sorda de Colombia.#Se aplicaron conceptos de usabilidad, accesibiliad, tecnicas PLN, tecnitas de procesamiento de video, obtencion de subtitulos mediante API's",
         "tipo": "Academico",
